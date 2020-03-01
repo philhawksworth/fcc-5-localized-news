@@ -1,0 +1,14 @@
+[
+  { "country": "fr",
+    "articles": [
+      {"title": "test-title-1"},
+      {"title": "test-title-1"},
+      {"title": "test-title-1"}]
+   },
+   { "country": "gb",
+    "articles": [
+      {"title": "test-title-1"},
+      {"title": "test-title-1"},
+      {"title": "test-title-1"}]
+   }
+]
